@@ -28,7 +28,7 @@ Usage
    the request.
 
    At the left side of the screen, you can see the request that has been
-   performed. Copy the value of the authentication header (the part that says
+   performed. Copy the value of the authorization header (the part that says
    `Bearer xyz...`) and save it in the environment variable `AUTH_TOKEN`.
 
 4. Start the export:
