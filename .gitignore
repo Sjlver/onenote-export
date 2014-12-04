@@ -1,0 +1,6 @@
+# Gems
+.bundle/
+vendor/
+
+# Local files
+setup.env
